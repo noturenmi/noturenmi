@@ -1,26 +1,34 @@
-# Hello World
+# 👋 Hello World, I'm Miren Amale M. Santos
 
-- Name: Miren Amale M. Santos
-- Nickname: renmi/ren/red
-- Year level and Course: 2nd year BSIT
-- School: New Era University, Quezon City
-- Location: Quezon City, Philippines
+💻 **BS Information Technology – 2nd Year**  
+🏫 **New Era University, Quezon City, Philippines**
 
-# Organizations
+---
 
-- 2024 - Present
+### 🌟 About Me
+Hi! You can call me **Ren**, **Renmi**, or **Red** 😊  
+I’m an aspiring software engineer with a growing passion for **UI/UX design**, **web development**, and **cloud technologies**.  
+I enjoy learning new tools, building small projects, and finding better ways to solve problems with code.
 
-  NEU Society of Information Technology Students
+---
 
-- 2023 - Present
+### 🏫 Organizations
+- **NEU Society of Information Technology Students** (2024 – Present)  
+- **NEU Project Paradigm** (2023 – Present)
 
-  NEU Project Paradigm
+---
 
-# Games
+### 🎮 Games I Play
+- **Riot ID:** `noturenmi #renmi`  
+- **Mobile Legends IGN:** `noturenmi`
 
-- Riot ID: noturenmi #renmi
-- ML IGN: noturenmi
-<!---
-noturenmi/noturenmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🌐 Let's Connect!
+📫 Email: [miren.santos@example.com](mailto:miren.santos@example.com)  
+💼 LinkedIn: [linkedin.com/in/mirensantos](https://linkedin.com/in/mirensantos) *(optional if you have one)*  
+🎨 Portfolio: *coming soon!*
+
+---
+
+> “Code. Design. Repeat.” 🚀
