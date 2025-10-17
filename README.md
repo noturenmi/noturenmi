@@ -25,8 +25,8 @@ I enjoy learning new tools, building small projects, and finding better ways to 
 ---
 
 ### 🌐 Let's Connect!
-📫 Email: [miren.santos@example.com](mailto:miren.santos@example.com)  
-💼 LinkedIn: [linkedin.com/in/mirensantos](https://linkedin.com/in/mirensantos) *(optional if you have one)*  
+📫 Email: [miren.santos@example.com](mailto:msantos02503@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/mirensantos](https://linkedin.com/in/noturenmi)
 🎨 Portfolio: *coming soon!*
 
 ---
