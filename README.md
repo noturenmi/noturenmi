@@ -50,7 +50,3 @@ I enjoy learning new tools, building small projects, and finding better ways to 
 ---
 
 > “Code. Design. Repeat.”  
-
----
-
-⭐ *Thanks for stopping by! Feel free to check out my repositories and say hi!*  
