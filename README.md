@@ -1,20 +1,20 @@
-# 👋 Hello World, I'm Miren Amale M. Santos
+# 👋 Hello World, I'm Miren Santos
 
-💻 **BS Information Technology – 3rd Year**  
+💻 **3rd Year - BS Information Technology**  
 🏫 **New Era University, Quezon City, Philippines**
 
 ---
 
 ### 🌟 About Me
-Hi! You can call me **Ren**, **Renmi**, or **Red** 💫  
+Hi! You can call me **Ren**, **Renmi**, or **Red**  
 I’m an aspiring **Software Engineer** with a growing passion for **UI/UX design**, **web development**, and **cloud technologies**.  
 I enjoy learning new tools, building small projects, and finding better ways to solve problems with code.
 
 ---
 
 ### 🏫 Organizations
-- 💡 **NEU Society of Information Technology Students** (2024 – Present)  
-- 🚀 **NEU Project Paradigm** (2023 – Present)
+- 💻 **NEU Society of Information Technology Students** (2024 – Present)  
+- 🎮 **NEU Project Paradigm** (2023 – Present)
 
 ---
 
